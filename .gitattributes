@@ -1,0 +1,11 @@
+*.jpeg binary
+*.min.css linguist-generated
+*.ico binary
+*.bat text eol=crlf
+
+*.yml linguist-detectable=false
+
+Cargo.lock linguist-generated
+*.woff binary
+docs/index.html linguist-vendored
+src/**/*.ts linguist-detectable
